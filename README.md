@@ -1,7 +1,4 @@
-# deneme
+
 # Udemig_Edu
-# Udemig_Edu
-# Udemig_Edu
-# Udemig_Edu
-# Udemig_Edu
-# Udemig_Edu
+
+![](udemig_screen) 
